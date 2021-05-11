@@ -1,0 +1,40 @@
+.logo{
+    margin-left: 20px;
+}
+
+nav{
+width: 1000px;;
+margin: 0px;
+padding: 2px;
+border: 50px lavender;
+color: plum;
+border-style:unset;
+}
+a{
+    padding: 80px;
+}
+h1{
+    padding:50px;
+    border-style:none;
+    text-align:center ;
+    color: purple;
+    text-decoration: purple;
+}
+body{
+    background-repeat: repeat;
+    background-image: url(https://images.pexels.com/photos/122458/pexels-photo-122458.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+}
+img{
+    height: 800px;
+    width: 800px;
+    margin-top: 0px;
+    margin-left: 300px;
+}
+.footer{
+    padding: 5px;
+    text-align: center;
+    background: rgb(197, 175, 216);
+    margin-top: 100px;
+    font-style: oblique;
+}
+
