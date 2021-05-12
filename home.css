@@ -66,7 +66,7 @@ span {
     background-image: url(lie.jpg);
     transform: rotateY(120deg) translateZ(430px); }
   .carousel__face:nth-child(5) { 
-    background-image: url(pinimg.com/236x/2c/07/32/2c07321b2d478386d44dadeef9e52ef4.jpg);
+    background-image: url(https://i.pinimg.com/236x/98/9f/96/989f96fa10ee1f28094de35065f3492c.jpg);
    transform: rotateY(160deg) translateZ(430px); }
   .carousel__face:nth-child(6) { 
     background-image: url(https://i.pinimg.com/236x/aa/3e/25/aa3e2516cfdc91bebf1becbcb7da0a7f.jpg);
